@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "description": "",
   "scripts": {
-    "start": "gulp"
+    "start": "gulp",
+    "serve": "http-server --ssl"
   },
   "keywords": [],
   "author": "Reece Bennett",
